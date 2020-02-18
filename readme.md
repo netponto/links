@@ -15,3 +15,15 @@
 ### devnaestrada: <https://devnaestrada.com.br/>
 
 ## Blogs
+
+### Coding Militia: <https://blog.codingmilitia.com/>
+
+### Development with a dot: <https://weblogs.asp.net/ricardoperes>
+
+### Digital Mind Ignition: <https://digitalmindignition.wordpress.com/>
+
+### Guiherme Ferreira blog: <https://gsferreira.com/>
+
+### Mónica Rodrigues: <https://medium.com/@monica85rodrigues>
+
+### Pedro Félix's shared memory: <https://blog.pedrofelix.org/>
