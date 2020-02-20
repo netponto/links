@@ -1,3 +1,5 @@
+# Lista de Podcasts e Blogs
+
 ## Podcasts
 
 ### Porto Codes: <https://porto.codes/podcast.html>
@@ -15,3 +17,15 @@
 ### devnaestrada: <https://devnaestrada.com.br/>
 
 ## Blogs
+
+### Coding Militia: <https://blog.codingmilitia.com/> :gb:
+
+### Development with a dot: <https://weblogs.asp.net/ricardoperes> :gb:
+
+### Digital Mind Ignition: <https://digitalmindignition.wordpress.com/> :gb:
+
+### Guiherme Ferreira blog: <https://gsferreira.com/> :gb:
+
+### Mónica Rodrigues: <https://medium.com/@monica85rodrigues> :pt: :gb:
+
+### Pedro Félix's shared memory: <https://blog.pedrofelix.org/> :gb:
