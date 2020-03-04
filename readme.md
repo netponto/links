@@ -16,6 +16,8 @@
 
 ### devnaestrada: <https://devnaestrada.com.br/>
 
+### Um sobre zero: <https://umsobrezero.com/>
+
 ## Blogs
 
 ### Coding Militia: <https://blog.codingmilitia.com/> :gb:
